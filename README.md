@@ -6,3 +6,4 @@
 - Software Manual Testing
 - Automation Testing
 
+[My Linkedin](https://www.linkedin.com/in/giga-khintibidze-24563534b/)
