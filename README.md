@@ -6,4 +6,15 @@
 - Software Manual Testing
 - Automation Testing
 
-[My Linkedin](https://www.linkedin.com/in/giga-khintibidze-24563534b/)
+## Skills
+1. Hardworking
+2. Responsible
+3. Self-motivated
+4. Sociable
+5. Positive
+6. Development oriented
+7. Smart
+8. Punctual
+   
+
+[Linkedin](https://www.linkedin.com/in/giga-khintibidze-24563534b/)
