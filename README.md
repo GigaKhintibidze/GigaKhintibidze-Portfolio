@@ -17,4 +17,4 @@
 8. Punctual
    
 
-[Linkedin](https://www.linkedin.com/in/giga-khintibidze-24563534b/)
+[My Linkedin Account - ](https://www.linkedin.com/in/giga-khintibidze-24563534b/)
