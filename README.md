@@ -3,7 +3,7 @@
 ### I am **Giga Khintibidze** *Student of QA Manual Pro*
 
 ## Courses
-- Software Manual Testing
+- Two course of Software Manual Testing
 - Automation Testing
 
 ## Skills
