@@ -11,7 +11,7 @@ In the summer of 2025 before started the training course I was involved in pract
 - Automation Testing
 
 ## About the GenofIT training - course QA Manual Pro
-The course was focused on giving me **practical experience.** I wrote a lot of test cases, bug reports. I learned more and got to know **front-end testing in practice.** Also learned more about **accessibility testing** and the tools that can be used to implement it. Besides in practice I used one of the tools called Wave, which is used in accessibility testing. It was a very interesting experience for me.
+   The course was focused on giving me **practical experience.** I wrote a lot of test cases, bug reports. I learned more and got to know **front-end testing in practice.** Also learned more about **accessibility testing** and the tools that can be used to implement it. Besides in practice I used one of the tools called Wave, which is used in accessibility testing. It was a very interesting experience for me.
 
 
 ## Skills
