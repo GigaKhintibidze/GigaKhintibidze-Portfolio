@@ -15,14 +15,14 @@ In the summer of 2025 before started the training course I was involved in pract
 
 
 ## Programs
-• TestCaseLab
-• Trello
-• Jira
-• ClickUp
-• Swagger
-• Postman
-• Wave
-• IntelliJ IDEA
+1. TestCaseLab
+2. Trello
+3. Jira
+4. ClickUp
+5. Swagger
+6. Postman
+7. Wave
+8. IntelliJ IDEA
 
 ## Skills
 1. Hardworking
