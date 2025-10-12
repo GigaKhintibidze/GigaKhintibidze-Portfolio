@@ -2,7 +2,7 @@
 ## Manual QA Engineer portfolio showcasing testing documentation
 
 ## Experience
-In the summer of 2025 before started the training course I was involved in practical work at Genofit and writing many test cases and bug reports as part of exploratory testing.
+In the summer of 2025 before started the training course I was involved in practical work at GenofIT and writing many test cases and bug reports as part of exploratory testing.
 
 ## Courses
 - Three-month course of Software Manual Testing where Lela Gabelaia was a lecturer
