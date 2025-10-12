@@ -1,9 +1,11 @@
 # Giga Khintibidze-Portfolio
 ## Manual QA Engineer portfolio showcasing testing documentation
-### I am **Giga Khintibidze** *Student of QA Manual Pro*
+
 
 ## Courses
-- Two course of Software Manual Testing
+- Three-month course of Software Manual Testing where Lela Gabelaia was a lecturer
+- Manual software testing course at GenofIT which lasted a month and a half
+- One-month practical training course on QA Manual PRO at GenofIT
 - Automation Testing
 
 ## Skills
