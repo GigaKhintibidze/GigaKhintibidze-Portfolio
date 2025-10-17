@@ -23,6 +23,7 @@ In the summer of 2025 before started the training course I was involved in pract
    **Second Week:**
   
   **Lecturer**: *Vakhtang Muskhelishvili* - Senior QA Engineer at DataArt
+  
   **Issues:**
   1. Theoretical information about Frontend testing, API, HTML/CSS, Searching frontend Bugs on two web-sites and writing bug-reports in Jira
   2. Searching for frontend bugs on one of the websites, finding hidden words and describing them in Jira
