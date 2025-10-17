@@ -11,7 +11,14 @@ In the summer of 2025 before started the training course I was involved in pract
 - Automation Testing Where Levan Kerdikashvili was a lecturer.
 
 ## About the GenofIT training course - QA Manual Pro
-   The course was focused on giving me **practical experience.** I wrote a lot of **test cases, bug reports.** I learned more and got to know **front-end testing in practice.** Also learned more about **accessibility testing** and the tools that can be used to implement it. Besides in practice I used one of the tools called Wave, which is used in accessibility testing. It was a very interesting experience for me.
+   **First Week**
+   *Lecturer*: Natia Avsajanishvili - Software QA Automation Engineer at Signify
+   **issues:**
+   • Writing test cases on Case.io
+   • Writing Bug Reports on Jira
+   • Transfer failed test cases from Case.io to Jira
+   **Second Week**
+   *Lecturer*
 
 
 ## Programs
