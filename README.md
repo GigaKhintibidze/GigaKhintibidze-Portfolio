@@ -24,9 +24,11 @@ In the summer of 2025 before started the training course I was involved in pract
   
   **Lecturer**: *Vakhtang Muskhelishvili* - Senior QA Engineer at DataArt
   **Issues:**
-  1. Theoretical information about frontend testing, API, HTML/CSS, Searching frontend Bugs on two web-sites and writing bug-reports in Jira
-  2. 
-  3.
+  1. Theoretical information about Frontend testing, API, HTML/CSS, Searching frontend Bugs on two web-sites and writing bug-reports in Jira
+  2. Searching for frontend bugs on one of the websites, finding hidden words and describing them in Jira
+  3. Theoretical information about Accessibility Testing and practical exercises using a wave which is tool for Accessibility Testing
+
+
 
 
 ## Programs
@@ -38,6 +40,7 @@ In the summer of 2025 before started the training course I was involved in pract
 6. Postman
 7. Wave
 8. IntelliJ IDEA
+9. Visual Studio Code
 
 ## Skills
 1. Hardworking
