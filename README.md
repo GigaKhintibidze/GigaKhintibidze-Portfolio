@@ -11,7 +11,7 @@ In the summer of 2025 before started the training course I was involved in pract
 - Automation Testing Where Levan Kerdikashvili was a lecturer.
 
 ## About the GenofIT training course - QA Manual Pro
-   **First Week**
+   **First Week:**
    
    **Lecturer**: *Natia Avsajanishvili* - Software QA Automation Engineer at Signify
    **Issues:**
@@ -20,13 +20,20 @@ In the summer of 2025 before started the training course I was involved in pract
    3. Transfer failed test cases from Case.io to Jira
    4. Theoretical and practical information about GitHub
 
-   **Second Week**
+   **Second Week:**
   
   **Lecturer**: *Vakhtang Muskhelishvili* - Senior QA Engineer at DataArt
   **Issues:**
   1. Theoretical information about Frontend testing, API, HTML/CSS, Searching frontend Bugs on two web-sites and writing bug-reports in Jira
   2. Searching for frontend bugs on one of the websites, finding hidden words and describing them in Jira
   3. Theoretical information about Accessibility Testing and practical exercises using a wave which is tool for Accessibility Testing
+
+  **Third Week:**
+
+  **Lecturer:** *Demetre Chaligava* - QA automation engineer
+  **Issues**
+  1. Theoretical information About UI/UX Testing and writing UI/UX Test Cases and Bug-Reports 
+  2. Writing Test Cases and Bug-Reports in Visual Studio Code and Automate and automatically run two test cases
 
 
 
