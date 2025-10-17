@@ -19,6 +19,7 @@ In the summer of 2025 before started the training course I was involved in pract
    3. Transfer failed test cases from Case.io to Jira
 
    **Second Week**
+  
   *Lecturer*: 
 
 
