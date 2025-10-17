@@ -13,15 +13,20 @@ In the summer of 2025 before started the training course I was involved in pract
 ## About the GenofIT training course - QA Manual Pro
    **First Week**
    
-   *Lecturer*: Natia Avsajanishvili - Software QA Automation Engineer at Signify
-   **issues:**
+   **Lecturer**: *Natia Avsajanishvili* - Software QA Automation Engineer at Signify
+   **Issues:**
    1. Writing Test Cases on Case.io
-   2. Writing Bug Reports on Jira
+   2. Writing Bug-Reports on Jira
    3. Transfer failed test cases from Case.io to Jira
+   4. Theoretical and practical information about GitHub
 
    **Second Week**
   
-  *Lecturer*: 
+  **Lecturer**: *Vakhtang Muskhelishvili* - Senior QA Engineer at DataArt
+  **Issues:**
+  1. Theoretical information about frontend testing, API, HTML/CSS, Searching frontend Bugs on two web-sites and writing bug-reports in Jira
+  2. 
+  3.
 
 
 ## Programs
