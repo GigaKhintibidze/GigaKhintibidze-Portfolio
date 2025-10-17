@@ -34,7 +34,7 @@ In the summer of 2025 before started the training course I was involved in pract
 
   **Lecturer:** *Demetre Chaligava* - QA automation engineer
   
-  **Issues**
+  **Issues:**
   1. Theoretical information About UI/UX Testing and writing UI/UX Test Cases and Bug-Reports 
   2. Writing Test Cases and Bug-Reports in Visual Studio Code and Automate and automatically run two test cases
 
