@@ -14,9 +14,9 @@ In the summer of 2025 before started the training course I was involved in pract
    **First Week**
    *Lecturer*: Natia Avsajanishvili - Software QA Automation Engineer at Signify
    **issues:**
-   • Writing test cases on Case.io
-   • Writing Bug Reports on Jira
-   • Transfer failed test cases from Case.io to Jira
+   1. Writing Test Cases on Case.io
+   2. Writing Bug Reports on Jira
+   3. Transfer failed test cases from Case.io to Jira
    **Second Week**
    *Lecturer*
 
