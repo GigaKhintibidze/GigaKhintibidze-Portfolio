@@ -12,6 +12,7 @@ In the summer of 2025 before started the training course I was involved in pract
 
 ## About the GenofIT training course - QA Manual Pro
    **First Week**
+   
    *Lecturer*: Natia Avsajanishvili - Software QA Automation Engineer at Signify
    **issues:**
    1. Writing Test Cases on Case.io
