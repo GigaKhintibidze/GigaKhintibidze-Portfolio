@@ -1,0 +1,133 @@
+N1
+Tittle: ვაკანსიების სექციაში არსებული Checkbox-ის ტექსტი: "general.spheres.choice.advertising" არ ჩანს სრულად
+
+Description:
+Test Device: Lenovo 10.0.26100 Build 26100
+Operating System: Windows 11 Pro 24H2
+Browser: Google Chrome - Version 140.0.7339.210
+Reproducibility Rate: 100%
+Severity - Normal
+Priority - Medium
+
+Steps to Reproduce:
+1. გახსენით ვებ-გვერდი: https://www.example.com/ 
+2. დააჭირეთ ღილაკზე: “ვაკანსიები“
+3. ჩამოსქროლეთ მთლიანად გვერდითი მენიუ (ფილტრის პანელი)
+
+Actual Result:
+ვაკანსიების სექციაში არსებული ფილტრის პანელის ჩამოსქროლვისას, Checkbox-ების გვერდით არსებული ყველა ტექსტი გარკვევით ჩანს გარდა ერთისა, რომელიცაა: 
+“general.spheres.choice.advertising“ და მომხმარებელს მხოლოდ შეუძლია დაინახოს ამ ტექსტის ნაწილი, რომელზეც წერია: “general.spheres.choice.adv“
+
+Expected Result:
+გვერდითა მენიუს ჩამოსქროლვისას ყველა Checkbox-ის გვერდით არსებული ტექსტი ჩანს გარკვევითა და ერთ ზომაში.
+
+Attachments:
+For confidentiality reasons, video material is not specified.
+
+
+
+N2
+Tittle: სურვილების სიაში პროდუქტის დამატების შემდეგ სურვილების სიის ღილაკის გვერდით ნივთის რაოდენობა refresh-ის ან სურვილების გვერდზე გადასვლის გარეშე არ იცვლება 
+
+Description:
+Test Device: Lenovo 10.0.26100 Build 26100
+Operating System: Windows 11 Pro 24H2
+Browser: Google Chrome - Version 140.0.7339.210
+Reproducibility Rate: 100%
+Severity: - Normal
+Priority: Medium
+
+Precondition:
+• მომხმარებელს გავლილი აქვს ავტორიზაცია
+• სურვილების სია ცარიელია
+
+Steps to Reproduce:
+1. გახსენით ვებ-გვერდი: https://www.example.com/
+2. მიიტანეთ მაუსი სასურველი პროდუქტის ფოტოსთან
+3. დააჭირეთ პროდუქტის ფოტოს მარჯვენა ზედა მხარეს არსებულ Favorite ღილაკს
+
+Actual Result:
+ვებ-გვერდზე გამოჩნდა შეტყობინება, რომელიც მომხმარებელს ეუბნება, რომ პროდუქტი დაემატა სურვილების სიას, მაგრამ მთავარ გვერდზე არსებული სურვილების სიის ღილაკთან, მასში არსებული პროდუქტის რაოდენობა არ იცვლება
+
+Expected Result:
+სურვილების სიის ღილაკის გვერდით არსებული რიცხვი, რომელიც განსაზღვრავს სურვილების სიაში პროდუქტების რაოდენობას იზრდება, როდესაც მომხმარებელი ამატებს სასურველ ნივთს სურვილების სიაში.
+
+Attachments:
+For confidentiality reasons, video material is not specified.
+
+
+
+N3
+Tittle: ჩარჩოს ზომის გაზრდა ყოველ ჯერზე, როდესაც Apply-ის ღილაკზე ეჭირება
+
+Description: 
+Test Device: Lenovo 10.0.26100 Build 26100
+Operating System: Windows 11 Pro 24H2
+Browser: Google Chrome - Version 140.0.7339.210
+Reproducibility Rate: 100%
+Severity: Major
+Priority: High
+
+Steps to Reproduce:
+1. გახსენით ვებ-გვერდი: https://www.example.com/
+2. დააჭირეთ რამდენჯერმე ღილაკზე “Apply“
+
+Actual Result:
+Apply-ის ღილაკზე რამდენჯერაც დააჭერს მომხმარებელი იმდენჯერ გაიზრდება ამ ღილაკის ირგვლივ არსებული ჩარჩო
+
+Expected Result:
+Apply-ის ღილაკზე დაჭერის შემდეგ გამოჩნდა ამავე ღილაკის ირგვლივ წითელი ჩარჩო, რომელიც არ იცვლის ზომას თუნდაც რამდენჯერმე დააჭიროს მას მომხმარებელმა
+
+Attachments:
+For confidentiality reasons, video material is not specified.
+
+
+N4
+Tittle: Text Area-ში არსებული ტექსტი ცდება მის ფარგლებს
+
+Description:
+Test Device: Lenovo 10.0.26100 Build 26100
+Operating System: Windows 11 Pro 24H2
+Browser: Google Chrome - Version 140.0.7339.210
+Reproducibility Rate: 100%
+Severity: Major
+Priority: High
+
+Steps to Reproduce:
+1. გახსენით ვებ-გვერდი: https://www.example.com/
+2. დააკვირდით Text Area-ში არსებულ ტექსტს
+
+Actual Result:
+Text Area-ში არსებული ტექსტი ცდება Text Area-ს ფარგლებს და რამოდენიმე სიტყვა კონკრეტულად კი “Or is it?“ წერია მის გარეთ
+
+Expected Result:
+Text Area-ში არსებული ტექსტი სრულიად განლაგებულია და ეტევა მის ფარგლებში
+
+Attachments:
+For confidentiality reasons, video material is not specified.
+
+
+N5
+Tittle: Product Preview-ის გვერდით არსებული ფოტო არ იხსნება
+
+Description:
+Test Device: Lenovo 10.0.26100 Build 26100
+Operating System: Windows 11 Pro 24H2
+Browser: Google Chrome - Version 140.0.7339.210
+Reproducibility Rate: 100%
+Severity: Critical
+Priority: High
+
+Steps to Reproduce:
+1. გახსენით ვებ-გვერდი: https://www.example.com/
+2. ჩამოსქროლეთ, სადაც წერია: “Product Preview“
+
+Actual Result: 
+ვებ-გვერდზე არ ჩანს და არ იხსნება Product Preview-ის გვერდით არსებული  ფოტო
+
+
+Expected Result:
+საიტზე გარკვევით და კარგად ჩანს Product Preview-ის გვერდით არსებული ფოტო
+
+Attachments:
+For confidentiality reasons, video material is not specified.
