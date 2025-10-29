@@ -40,6 +40,13 @@ Also, in October-November, I participated in testing one of the mobile applicati
   2. Writing Test Cases and Bug-Reports in Visual Studio Code and Automate and automatically run two test cases
   3. Theorical information about BrowserStack and UI/UX Test Cases and Bug Reports review
 
+  **Fourth Week**
+  1. Theoretical information on API testing and practical implementation in Postman
+  2. Executing API test cases, checking commands run in Postman script
+  3. Theorical information about SQL and execution of various commands
+
+
+
 
 
 
