@@ -3,6 +3,7 @@
 
 ## Experience
 In the summer of 2025 before started the training course I was involved in practical work at GenofIT and writing many test cases and bug reports as part of exploratory testing.
+Also, in October-November, I participated in testing one of the mobile applications at the same company.
 
 ## Courses
 - Three-month course of Software Manual Testing where Lela Gabelaia was a lecturer.
