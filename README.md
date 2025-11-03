@@ -17,7 +17,7 @@ Also, in October-November, I participated in testing one of the mobile applicati
    **Lecturer**: *Natia Avsajanishvili* - Software QA Automation Engineer at Signify
    
    **Issues:**
-   1. Writing Test Cases on Case.io
+   1. Writing Test Cases on Qase.io
    2. Writing Bug-Reports on Jira
    3. Transfer failed test cases from Case.io to Jira
    4. Theoretical and practical information about GitHub
