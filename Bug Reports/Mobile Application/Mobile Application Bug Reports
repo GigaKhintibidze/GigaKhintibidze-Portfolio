@@ -149,3 +149,30 @@ Expected Result:
 
 Attachments:
 *****
+
+
+N7
+
+Tittle: Continue using email-ით ავტორიზაციის დროს Forgot password ღილაკზე დაჭერისას აპლიკაცია ელ-ფოსტის ნაცვლად ითხოვს პაროლის შეყვანას
+
+Test Device: iPhone 11
+Application Version: Version 1.0.0 (1.0.34)
+Reproducibility Rate: 100%
+
+Pre-Conditions:
+მომხმარებელი იმყოფება Continue using email-ის გვერდზე
+
+Steps to Reproduce:
+1. *****-ში Continue using email-ის გვერდზე ჩაწერეთ თქვენი ვალიდური ელ-ფოსტა
+2. დააჭირეთ ღილაკზე "Forgot password"
+
+
+
+Actual Result:
+როდესაც მომხმარებელი აჭერს ღილაკს "Forgot password", აპლიკაცია გადადის მომხმარებლის პაროლის შეყვანის გვერდზე.
+
+Expected Result:
+ღილაკზე Forgot password-ის დაჭერის შემდეგ უნდა სრულდებოდეს პაროლის აღდგენის ფლოუ, რომლის პირველი ნაწილიც წარმოადგენს ელფოსტის შეყვანას.
+
+Attachments:
+*****
