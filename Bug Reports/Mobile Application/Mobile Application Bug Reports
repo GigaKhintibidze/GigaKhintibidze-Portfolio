@@ -176,3 +176,30 @@ Expected Result:
 
 Attachments:
 *****
+
+
+
+
+N8
+
+Tittle: Notification-ის ღილაკზე დაჭერისას აპლიკაცია იქრაშება
+
+Test Device: iPhone 11
+Application Version: Version 1.0.0 (1.0.40)
+Reproducibility Rate: 100%
+
+Pre-Conditions:
+• მომხმარებელს გავლილი აქვს ავტორიზაცია
+
+Steps to Reproduce: 
+გახსენით მობილური აპლიკაცია - *****
+დააჭირეთ ქვემოთ არსებულ Notification-ის ღილაკს
+
+Actual Result:
+Notification-ის ღილაკი არ ასრულებს თავის ფუნქციას და აპლიკაცია იქრაშება, როდესაც მომხმარებელი აჭერს მას
+
+Expected Result:
+Notification-ის ღილაკზე დაჭერისას აპლიკაციაში კარგად ჩანს ყველა მოსული შეტყობინება
+
+Attachments:
+*****
