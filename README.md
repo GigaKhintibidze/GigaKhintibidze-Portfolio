@@ -72,7 +72,7 @@ In the documentation, you can find general information, completed courses, and t
 
 ---
 
-## Skills
+## 🧠Skills
 <table>
   <tr>
     <th>Skill</th>
