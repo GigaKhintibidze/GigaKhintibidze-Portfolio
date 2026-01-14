@@ -17,6 +17,7 @@ In the documentation, you can find general information, completed courses, and t
 • 🧠 Knowledgeable in **SDLC, STLC, and Defect Lifecycle.**
 
 • 💬 Communicative who actively collaborates with different members of the team.
+
 ---
 
 ## 📚Courses
