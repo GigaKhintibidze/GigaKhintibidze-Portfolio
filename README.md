@@ -72,15 +72,35 @@ In the documentation, you can find general information, completed courses, and t
 
 ---
 
-## Skills
-1. Hardworking
-2. Responsible
-3. Self-motivated
-4. Sociable
-5. Positive
-6. Development oriented
-7. Smart
-8. Punctual
+<table>
+  <tr>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td>Hardworking</td>
+  </tr>
+  <tr>
+    <td>Responsible</td>
+  </tr>
+  <tr>
+    <td>Self-motivated</td>
+  </tr>
+  <tr>
+    <td>Sociable</td>
+  </tr>
+  <tr>
+    <td>Positive</td>
+  </tr>
+  <tr>
+    <td>Development oriented</td>
+  </tr>
+  <tr>
+    <td>Smart</td>
+  </tr>
+  <tr>
+    <td>Punctual</td>
+  </tr>
+</table>
    
 ## 🧩 Let’s Connect
 [💼Linkedin](https://www.linkedin.com/in/giga-khintibidze-24563534b/)
