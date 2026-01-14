@@ -72,103 +72,6 @@ In the documentation, you can find general information, completed courses, and t
 
 ---
 
-<h2>📘 About the GenoFIT Training Course – QA Manual Pro</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Week</th>
-      <th>Details</th>
-    </tr>
-  </thead>
-  <tbody>
-
-    <tr>
-      <td><b>First Week</b></td>
-      <td>
-        <b>Lecturer:</b> Natia Asvajanashvili – Software QA Automation Engineer at Signify
-        <br><br>
-        <b>Topics:</b>
-        <ul>
-          <li>Writing Test Cases on Qase.io</li>
-          <li>Writing Bug Reports on Jira</li>
-          <li>Transferring failed test cases from Qase.io to Jira</li>
-          <li>Theoretical and practical information about GitHub</li>
-        </ul>
-      </td>
-    </tr>
-
-    <tr>
-      <td colspan="2"><hr></td>
-    </tr>
-
-    <tr>
-      <td><b>Second Week</b></td>
-      <td>
-        <b>Lecturer:</b> Vakhtang Mushkelishvili – Senior QA Engineer at DataArt
-        <br><br>
-        <b>Topics:</b>
-        <ul>
-          <li>Theoretical information about Frontend testing, API, HTML/CSS</li>
-          <li>Searching frontend bugs on two websites and writing bug reports in Jira</li>
-          <li>Accessibility Testing theory and practice using WAVE tool</li>
-        </ul>
-      </td>
-    </tr>
-
-    <tr>
-      <td colspan="2"><hr></td>
-    </tr>
-
-    <tr>
-      <td><b>Third Week</b></td>
-      <td>
-        <b>Lecturer:</b> Demetre Chaligava – QA Automation Engineer
-        <br><br>
-        <b>Topics:</b>
-        <ul>
-          <li>UI/UX Testing theory and writing UI/UX Test Cases and Bug Reports</li>
-          <li>Writing Test Cases and Bug Reports in Visual Studio Code</li>
-          <li>BrowserStack overview and UI/UX Test Cases & Bug Reports review</li>
-        </ul>
-      </td>
-    </tr>
-
-    <tr>
-      <td colspan="2"><hr></td>
-    </tr>
-
-    <tr>
-      <td><b>Fourth Week</b></td>
-      <td>
-        <b>Topics:</b>
-        <ul>
-          <li>API testing theory and practical implementation in Postman</li>
-          <li>Executing API test cases and checking Postman scripts</li>
-          <li>SQL theory and execution of various commands</li>
-        </ul>
-      </td>
-    </tr>
-
-  </tbody>
-</table>
-
-
-
-
-
-
-## Programs
-1. TestCaseLab
-2. Trello
-3. Jira
-4. ClickUp
-5. Swagger
-6. Postman
-7. Wave
-8. IntelliJ IDEA
-9. Visual Studio Code
-
 ## Skills
 1. Hardworking
 2. Responsible
@@ -179,5 +82,6 @@ In the documentation, you can find general information, completed courses, and t
 7. Smart
 8. Punctual
    
-
-[Linkedin](https://www.linkedin.com/in/giga-khintibidze-24563534b/)
+## 🧩 Let’s Connect
+[💼Linkedin](https://www.linkedin.com/in/giga-khintibidze-24563534b/)
+[📧Email:](khintibidzegiga@gmail.com)
