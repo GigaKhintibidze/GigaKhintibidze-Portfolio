@@ -23,7 +23,6 @@ In the documentation, you can find general information, completed courses, and t
 - One-month practical training course on QA Manual PRO at GenofIT.
 - Automation Testing Where Levan Kerdikashvili was a lecturer.
 
-
 ## 🧰 Tools & Technologies
 
 <table>
