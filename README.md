@@ -115,4 +115,3 @@ In the documentation, you can find general information, completed courses, and t
 ## 🧩 Let’s Connect
 [💼Linkedin](https://www.linkedin.com/in/giga-khintibidze-24563534b/)
 
-[📧Email](khintibidzegiga@gmail.com)
