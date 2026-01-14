@@ -23,6 +23,8 @@ In the documentation, you can find general information, completed courses, and t
 - One-month practical training course on QA Manual PRO at GenofIT.
 - Automation Testing Where Levan Kerdikashvili was a lecturer.
 
+## 🧰 Tools & Technologies
+
 <table>
   <thead>
     <tr>
@@ -32,8 +34,12 @@ In the documentation, you can find general information, completed courses, and t
   </thead>
   <tbody>
     <tr>
-      <td><b>Test Management</b></td>
-      <td>Jira, Qase.io</td>
+      <td><b>Test Cases</b></td>
+      <td>Jira, Qase.io, TestCaseLab</td>
+    </tr>
+    <tr>
+      <td><b>Bug Reports</b></td>
+      <td>Jira, Trello, ClickUp</td>
     </tr>
     <tr>
       <td><b>API Testing</b></td>
@@ -49,11 +55,11 @@ In the documentation, you can find general information, completed courses, and t
     </tr>
     <tr>
       <td><b>Mobile Testing</b></td>
-      <td>Android Studio / Emulators</td>
+      <td>iOS</td>
     </tr>
     <tr>
       <td><b>Documentation</b></td>
-      <td>Excel, Google Sheets, Notion</td>
+      <td>Excel, Google Sheets</td>
     </tr>
   </tbody>
 </table>
