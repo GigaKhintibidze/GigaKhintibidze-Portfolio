@@ -80,35 +80,35 @@ In the documentation, you can find general information, completed courses, and t
   </tr>
   <tr>
     <td>Hardworking</td>
-    <td>Consistently puts in effort and dedication</td>
+    <td>I consistently put in effort and dedication</td>
   </tr>
   <tr>
     <td>Responsible</td>
-    <td>Takes accountability for tasks and actions</td>
+    <td>I take accountability for my tasks and actions</td>
   </tr>
   <tr>
     <td>Self-motivated</td>
-    <td>Works proactively without supervision</td>
+    <td>I work proactively without supervision</td>
   </tr>
   <tr>
     <td>Sociable</td>
-    <td>Communicates well and builds relationships</td>
+    <td>I communicate well and build relationships</td>
   </tr>
   <tr>
     <td>Positive</td>
-    <td>Maintains an optimistic attitude</td>
+    <td>I maintain an optimistic attitude</td>
   </tr>
   <tr>
     <td>Development oriented</td>
-    <td>Focused on growth and learning</td>
+    <td>I focus on growth and continuous learning</td>
   </tr>
   <tr>
     <td>Smart</td>
-    <td>Learns quickly and applies knowledge effectively</td>
+    <td>I learn quickly and apply knowledge effectively</td>
   </tr>
   <tr>
     <td>Punctual</td>
-    <td>Completes tasks on time and respects deadlines</td>
+    <td>I complete tasks on time and respect deadlines</td>
   </tr>
 </table>
    
