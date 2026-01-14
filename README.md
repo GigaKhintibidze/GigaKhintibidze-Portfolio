@@ -2,7 +2,7 @@
 
 Hello, this is my portfolio as a Manual QA Tester, which contains information about me.
 
-In the documentation, you can find general information, completed courses, and the knowledge I have gained. Additionally, it includes the structure of various documents used during work, and other related materials.
+In the documentation, you can find general information, My experience, completed courses, and the knowledge I have gained. Additionally, it includes the structure of various documents used during work, and other related materials.
 
 ---
 
@@ -20,6 +20,7 @@ In the documentation, you can find general information, completed courses, and t
 • 💬 Communicative who actively collaborates with different members of the team.
 
 ---
+
 
 ## 📚 Courses
 - Three-month course of Software Manual Testing where Lela Gabelaia was a lecturer.
