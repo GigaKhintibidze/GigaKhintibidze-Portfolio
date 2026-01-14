@@ -6,7 +6,7 @@ In the documentation, you can find general information, completed courses, and t
 
 ---
 
-# 👤About Me 
+# 👤 About Me 
 • 🔎 **Detail-oriented Manual QA Tester**, focused on improving user experience and product quality.
 
 • 🎯 Goal-oriented individual focused on continuous development.
@@ -21,7 +21,7 @@ In the documentation, you can find general information, completed courses, and t
 
 ---
 
-## 📚Courses
+## 📚 Courses
 - Three-month course of Software Manual Testing where Lela Gabelaia was a lecturer.
 - Manual software testing course at GenofIT which lasted a month and a half.
 - One-month practical training course on QA Manual PRO at GenofIT.
@@ -72,7 +72,7 @@ In the documentation, you can find general information, completed courses, and t
 
 ---
 
-## 🧠Skills
+## 🧠 Skills
 <table>
   <tr>
     <th>Skill</th>
