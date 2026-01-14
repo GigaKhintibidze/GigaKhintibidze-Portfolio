@@ -17,7 +17,7 @@ In the documentation, you can find general information, completed courses, and t
 
 • 💬 Communicative who actively collaborates with different members of the team.
 
-## Courses
+## 📚Courses
 - Three-month course of Software Manual Testing where Lela Gabelaia was a lecturer.
 - Manual software testing course at GenofIT which lasted a month and a half.
 - One-month practical training course on QA Manual PRO at GenofIT.
