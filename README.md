@@ -6,9 +6,13 @@ In the documentation, you can find general information, completed courses, and t
 
 ## 👤About Me
 • 🎯 **Detail-oriented Manual QA Tester**, focused on improving user experience and product quality.
+
 • 🧩 Experienced in **Functional, Regression, UI/UX, and API testing.**
+
 • 📋 Skilled in creating **Test Cases, Bug Reports, and Checklists.**
+
 • 🧠 Knowledgeable in **SDLC, STLC, and Defect Lifecycle.**
+
 • 💬 Communicative who actively collaborates with different members of the team.
 
 ## Courses
