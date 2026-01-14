@@ -72,33 +72,43 @@ In the documentation, you can find general information, completed courses, and t
 
 ---
 
+## Skills
 <table>
   <tr>
-    <th>Skills</th>
+    <th>Skill</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td>Hardworking</td>
+    <td>Consistently puts in effort and dedication</td>
   </tr>
   <tr>
     <td>Responsible</td>
+    <td>Takes accountability for tasks and actions</td>
   </tr>
   <tr>
     <td>Self-motivated</td>
+    <td>Works proactively without supervision</td>
   </tr>
   <tr>
     <td>Sociable</td>
+    <td>Communicates well and builds relationships</td>
   </tr>
   <tr>
     <td>Positive</td>
+    <td>Maintains an optimistic attitude</td>
   </tr>
   <tr>
     <td>Development oriented</td>
+    <td>Focused on growth and learning</td>
   </tr>
   <tr>
     <td>Smart</td>
+    <td>Learns quickly and applies knowledge effectively</td>
   </tr>
   <tr>
     <td>Punctual</td>
+    <td>Completes tasks on time and respects deadlines</td>
   </tr>
 </table>
    
