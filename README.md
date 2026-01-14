@@ -4,8 +4,8 @@ Hello, this is my portfolio as a Manual QA Tester, which contains information ab
 
 In the documentation, you can find general information, completed courses, and the knowledge I have gained. Additionally, it includes the structure of various documents used during work, and other related materials.
 
-
-# 👤About Me 
+##
+👤About Me 
 • 🔎 **Detail-oriented Manual QA Tester**, focused on improving user experience and product quality.
 
 • 🎯 Goal-oriented individual focused on continuous development.
