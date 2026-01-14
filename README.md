@@ -4,6 +4,7 @@ Hello, this is my portfolio as a Manual QA Tester, which contains information ab
 
 In the documentation, you can find general information, completed courses, and the knowledge I have gained. Additionally, it includes the structure of various documents used during work, and other related materials.
 
+---
 
 # 👤About Me 
 • 🔎 **Detail-oriented Manual QA Tester**, focused on improving user experience and product quality.
@@ -25,6 +26,8 @@ In the documentation, you can find general information, completed courses, and t
 - Manual software testing course at GenofIT which lasted a month and a half.
 - One-month practical training course on QA Manual PRO at GenofIT.
 - Automation Testing Where Levan Kerdikashvili was a lecturer.
+
+---
 
 ## 🧰 Tools & Technologies
 
@@ -66,6 +69,8 @@ In the documentation, you can find general information, completed courses, and t
     </tr>
   </tbody>
 </table>
+
+---
 
 ## About the GenofIT training course - QA Manual Pro
    **First Week:**
