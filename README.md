@@ -21,7 +21,7 @@ In the documentation, you can find general information, My experience, completed
 
 ---
 
-## Experience
+## 📈 Experience
 I have one year of work experience at the Georgian-American company GenofIT, where I am actively involved in the testing process of a website and a mobile application. I regularly work on executing detailed test cases and creating bug reports, and I have active communication with team members and the team lead to ensure product quality, stability, and timely improvements.
 
 ## 📚 Courses
