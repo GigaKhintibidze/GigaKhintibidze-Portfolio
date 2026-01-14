@@ -122,4 +122,4 @@ In the documentation, you can find general information, My experience, completed
 
 ---
 
-Thanks for reviewing my portfolio❤️
+Thanks for reviewing my portfolio🙏
