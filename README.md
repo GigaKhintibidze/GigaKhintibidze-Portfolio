@@ -111,7 +111,9 @@ In the documentation, you can find general information, completed courses, and t
     <td>I complete tasks on time and respect deadlines</td>
   </tr>
 </table>
-   
+
+---
+
 ## 🧩 Let’s Connect
 [💼Linkedin](https://www.linkedin.com/in/giga-khintibidze-24563534b/)
 
