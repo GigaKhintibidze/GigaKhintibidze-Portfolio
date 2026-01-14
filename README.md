@@ -74,4 +74,4 @@ Also, in October-November, I participated in testing one of the mobile applicati
 8. Punctual
    
 
-[My Linkedin Account](https://www.linkedin.com/in/giga-khintibidze-24563534b/)
+[Linkedin](https://www.linkedin.com/in/giga-khintibidze-24563534b/)
