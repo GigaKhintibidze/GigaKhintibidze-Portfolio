@@ -118,3 +118,7 @@ In the documentation, you can find general information, completed courses, and t
 💼 [Linkedin Profile](https://www.linkedin.com/in/giga-khintibidze-24563534b/)
 
 📧 Email: [khintibidzegiga@gmail.com]
+
+---
+
+Thanks for reviewing my portfolio❤️
