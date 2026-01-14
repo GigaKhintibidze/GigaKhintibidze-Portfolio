@@ -72,41 +72,86 @@ In the documentation, you can find general information, completed courses, and t
 
 ---
 
-## About the GenofIT training course - QA Manual Pro
-   **First Week:**
-   
-   **Lecturer**: *Natia Avsajanishvili* - Software QA Automation Engineer at Signify
-   
-   **Issues:**
-   1. Writing Test Cases on Qase.io
-   2. Writing Bug-Reports on Jira
-   3. Transfer failed test cases from Case.io to Jira
-   4. Theoretical and practical information about GitHub
+<h2>📘 About the GenoFIT Training Course – QA Manual Pro</h2>
 
-   **Second Week:**
-  
-  **Lecturer**: *Vakhtang Muskhelishvili* - Senior QA Engineer at DataArt
-  
-  **Issues:**
-  1. Theoretical information about Frontend testing, API, HTML/CSS, Searching frontend Bugs on two web-sites and writing bug-reports in Jira
-  2. Searching for frontend bugs on one of the websites, finding hidden words and describing them in Jira
-  3. Theoretical information about Accessibility Testing and practical exercises using a wave which is tool for Accessibility Testing
+<table>
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
 
-  **Third Week:**
+    <tr>
+      <td><b>First Week</b></td>
+      <td>
+        <b>Lecturer:</b> Natia Asvajanashvili – Software QA Automation Engineer at Signify
+        <br><br>
+        <b>Topics:</b>
+        <ul>
+          <li>Writing Test Cases on Qase.io</li>
+          <li>Writing Bug Reports on Jira</li>
+          <li>Transferring failed test cases from Qase.io to Jira</li>
+          <li>Theoretical and practical information about GitHub</li>
+        </ul>
+      </td>
+    </tr>
 
-  **Lecturer:** *Demetre Chaligava* - QA automation engineer
-  
-  **Issues:**
-  1. Theoretical information About UI/UX Testing and writing UI/UX Test Cases and Bug-Reports 
-  2. Writing Test Cases and Bug-Reports in Visual Studio Code and Automate and automatically run two test cases
-  3. Theorical information about BrowserStack and UI/UX Test Cases and Bug Reports review
+    <tr>
+      <td colspan="2"><hr></td>
+    </tr>
 
-  **Fourth Week**
+    <tr>
+      <td><b>Second Week</b></td>
+      <td>
+        <b>Lecturer:</b> Vakhtang Mushkelishvili – Senior QA Engineer at DataArt
+        <br><br>
+        <b>Topics:</b>
+        <ul>
+          <li>Theoretical information about Frontend testing, API, HTML/CSS</li>
+          <li>Searching frontend bugs on two websites and writing bug reports in Jira</li>
+          <li>Accessibility Testing theory and practice using WAVE tool</li>
+        </ul>
+      </td>
+    </tr>
 
-  **Issues:**
-  1. Theoretical information on API testing and practical implementation in Postman
-  2. Executing API test cases, checking commands run in Postman script
-  3. Theorical information about SQL and execution of various commands
+    <tr>
+      <td colspan="2"><hr></td>
+    </tr>
+
+    <tr>
+      <td><b>Third Week</b></td>
+      <td>
+        <b>Lecturer:</b> Demetre Chaligava – QA Automation Engineer
+        <br><br>
+        <b>Topics:</b>
+        <ul>
+          <li>UI/UX Testing theory and writing UI/UX Test Cases and Bug Reports</li>
+          <li>Writing Test Cases and Bug Reports in Visual Studio Code</li>
+          <li>BrowserStack overview and UI/UX Test Cases & Bug Reports review</li>
+        </ul>
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="2"><hr></td>
+    </tr>
+
+    <tr>
+      <td><b>Fourth Week</b></td>
+      <td>
+        <b>Topics:</b>
+        <ul>
+          <li>API testing theory and practical implementation in Postman</li>
+          <li>Executing API test cases and checking Postman scripts</li>
+          <li>SQL theory and execution of various commands</li>
+        </ul>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
 
 
 
