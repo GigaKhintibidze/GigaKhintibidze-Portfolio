@@ -17,7 +17,8 @@
 2. In the field under “Sign in”, enter the Microsoft email used during registration
 3. Tap the “Next” button
 4.Tap “Send Code”
-5.Enter the 6-digit code received in the email into the provided input field
+5.Enter the 
+6-digit code received in the email into the provided input field
 
 ## Actual Result:
 The user is unable to complete authentication and is redirected back to the main screen of the application.
