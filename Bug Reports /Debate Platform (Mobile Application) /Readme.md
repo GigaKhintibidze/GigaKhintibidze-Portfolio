@@ -1,5 +1,6 @@
 ## ⚖️ Debate Platform (Mobile Application)
 Role: Manual QA Engineer 
+
 Period: Nov 2025 - Feb 2026
 
 ## 📌 Project Overview
