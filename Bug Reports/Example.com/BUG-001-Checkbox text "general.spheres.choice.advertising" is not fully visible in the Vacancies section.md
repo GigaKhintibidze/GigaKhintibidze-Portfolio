@@ -1,6 +1,6 @@
 
 
-### ** 🐞 Checkbox text **"general.spheres.choice.advertising"** is not fully visible in the Vacancies section ** 
+# ** 🐞 Checkbox text **"general.spheres.choice.advertising"** is not fully visible in the Vacancies section ** 
 
 **Description:**  
 - **Test Device:** Lenovo 10.0.26100 Build 26100  
