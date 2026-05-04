@@ -27,7 +27,5 @@ Reported and tracked defects and supported retesting cycles before releases
 
 • Chrome DevTools
 
-• Postman 
-
 ## 🔒 NDA Notice
 All project details are anonymized. Real names and sensitive data are removed.
