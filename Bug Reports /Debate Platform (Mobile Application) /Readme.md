@@ -1,6 +1,6 @@
 ## ⚖️ Debate Platform (Mobile Application)
 Role: Manual QA Engineer 
-Period: Nov 2025
+Period: Nov 2025 - Feb 2026
 
 ## 📌 Project Overview
 Manual testing of a mobile application, where the main and most priority functionality is live debates in different formats between users.
