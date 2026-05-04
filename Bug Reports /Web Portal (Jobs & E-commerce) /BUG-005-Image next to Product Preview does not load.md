@@ -1,4 +1,4 @@
-# Image next to Product Preview does not load
+# 🐞 Image next to Product Preview does not load
 
 ## Environment:
 **Test Device:** Lenovo 10.0.26100 Build 26100
