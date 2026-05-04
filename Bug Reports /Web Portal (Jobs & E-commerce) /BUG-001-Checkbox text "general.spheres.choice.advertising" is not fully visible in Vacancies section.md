@@ -2,10 +2,15 @@
 
 ## Environment:
 **Test Device:** Lenovo 10.0.26100 Build 26100
+
 **Operating System:** Windows 11 Pro 24H2
+
 **Browser:** Google Chrome - Version 140.0.7339.210
+
 **Reproducibility Rate:** 100%
+
 **Severity:** Normal
+
 **Priority:** Medium
 
 ## Steps to Reproduce:
