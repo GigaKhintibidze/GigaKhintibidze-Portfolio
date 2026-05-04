@@ -23,6 +23,8 @@ Reported and tracked defects and supported retesting cycles before releases
 • Cross-browser
 
 ## 🛠️ Tools Used
+• ClickUp
+
 • Jira
 
 • Chrome DevTools
