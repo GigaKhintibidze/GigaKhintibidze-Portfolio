@@ -13,12 +13,16 @@ Reported and tracked defects and supported retesting cycles before releases
 
 ## 🧩 Testing Type
 • Functional
+
 • UI/UX
+
 • Cross-browser
 
 # 🛠️ Tools Used
 • Jira
+
 • Chrome DevTools
+
 • Postman 
 
 # 🔒 NDA Notice
