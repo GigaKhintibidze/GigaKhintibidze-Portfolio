@@ -18,12 +18,12 @@ Reported and tracked defects and supported retesting cycles before releases
 
 • Cross-browser
 
-# 🛠️ Tools Used
+## 🛠️ Tools Used
 • Jira
 
 • Chrome DevTools
 
 • Postman 
 
-# 🔒 NDA Notice
+## 🔒 NDA Notice
 All project details are anonymized. Real names and sensitive data are removed.
