@@ -15,6 +15,7 @@
 
 ## Preconditions:
 • User is logged in
+
 • Wishlist is empty
 
 ## Steps to Reproduce:
