@@ -1,36 +1,3 @@
 # 🐞 BUG-001: Checkbox text is not fully visible in Vacancies section
-
-**Priority:** Medium  
-**Severity:** Normal  
-
----
-
-## Description
-In the Vacancies section, one checkbox label is not fully visible while scrolling the filter panel.
-
----
-
-## Preconditions
-- User is on the website  
-- Vacancies page is open  
-- Filter panel is visible  
-
----
-
-## Steps to Reproduce
-1. Open the website: https://www.example.com/  
-2. Click on the "Vacancies" button  
-3. Scroll down the filter panel  
-
----
-
-## Actual Result
-The label **"general.spheres.choice.advertising"** is truncated and displayed as  
-**"general.spheres.choice.adv"**  
-
----
-
-## Expected Result
-All checkbox labels should be fully visible and displayed consistently.  
  
 
