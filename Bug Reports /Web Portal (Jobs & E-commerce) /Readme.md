@@ -1,5 +1,6 @@
 ## 🌐 Web Portal (Jobs & E-commerce)
 Role: Manual QA Engineer
+
 Period: Nov 2025
 
 ## 📌 Project Overview
