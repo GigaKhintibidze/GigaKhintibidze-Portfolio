@@ -30,3 +30,4 @@ No notification is displayed in the Notifications tab regarding new reactions on
 If “New reactions to your rebuts” is enabled in Notification Settings, the system should generate a notification for each new reaction and display it in the Notifications tab.
 
 ## Attachments:
+For confidentiality reasons, video material is not provided.
