@@ -1,26 +1,35 @@
-### **Title:**  
-Checkbox text **"general.spheres.choice.advertising"** is not fully visible in the Vacancies section  
+# 🐞 Checkbox text "general.spheres.choice.advertising" is not fully visible in Vacancies section
 
-### **Description:**  
-- **Test Device:** Lenovo 10.0.26100 Build 26100  
-- **Operating System:** Windows 11 Pro 24H2  
-- **Browser:** Google Chrome - Version 140.0.7339.210  
-- **Reproducibility Rate:** 100%  
-- **Severity:** Normal  
-- **Priority:** Medium  
+**Bug ID:** BUG-001  
+**Priority:** Medium  
+**Severity:** Normal  
 
-### **Steps to Reproduce:**  
+---
+
+## Description
+In the Vacancies section, one checkbox label is not fully visible while scrolling the filter panel.
+
+---
+
+## Preconditions
+- User is on the website  
+- Vacancies page is open  
+- Filter panel is visible  
+
+---
+
+## Steps to Reproduce
 1. Open the website: https://www.example.com/  
-2. Click on the **“Vacancies”** button  
-3. Scroll down the sidebar (filter panel)  
+2. Click on the "Vacancies" button  
+3. Scroll down the filter panel  
 
-### **Actual Result:**  
-While scrolling the filter panel, all checkbox labels are visible except one:  
-**"general.spheres.choice.advertising"** → only partially visible as  
+---
+
+## Actual Result
+The label **"general.spheres.choice.advertising"** is truncated and displayed as  
 **"general.spheres.choice.adv"**  
 
-### **Expected Result:**  
-All checkbox labels should be fully visible and have a consistent size.  
+---
 
-### **Attachments:**  
-_Not provided for confidentiality reasons_
+## Expected Result
+All checkbox labels should be fully visible and displayed consistently. 
