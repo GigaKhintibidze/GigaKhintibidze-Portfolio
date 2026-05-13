@@ -4,7 +4,7 @@
 ## Description: 
 Creating an invitation by the user
 
-**Precondition:**
+## Precondition:
 
 • The user is authorized
 
