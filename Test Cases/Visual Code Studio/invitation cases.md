@@ -5,6 +5,7 @@
 Creating an invitation by the user
 
 **Precondition:**
+
 • The user is authorized
 
 • The user is on the templates page
@@ -30,6 +31,7 @@ Creating an invitation by the user
 Creating an invitation by the user without filling in the required fields
 
 **Precondition:**
+
 • The user is authorized
 
 • The user is on the templates page
@@ -55,6 +57,7 @@ Creating an invitation by the user without filling in the required fields
 Creating an invitation by the user without authorization
 
 **Postcondition:**
+
 • The user cannot create an invitation
 
 **Steps to Reproduce:**
@@ -73,11 +76,13 @@ Creating an invitation by the user without authorization
 Selecting the multiple event time Checkbox by the user
 
 **Precondition:**
+
 • The user is authorized
 
 • The user is on the templates page
 
 **Postcondition:**
+
 • The user selects the multiple event time Checkbox
 
 **Steps to Reproduce:**
@@ -96,11 +101,13 @@ Selecting the Guests RSVP Permission Checkbox
 **Description:** Selecting the guests RSVP permission Checkbox by the user
 
 **Precondition:**
+
 • The user is authorized
 
 • The user is on the templates page
 
 **Postcondition:**
+
 • The user selects the guests RSVP permission Checkbox
 
 **Steps to Reproduce:**
