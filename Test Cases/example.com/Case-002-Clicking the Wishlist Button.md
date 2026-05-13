@@ -5,6 +5,7 @@ Successfully clicking the wishlist button and being redirected to the correspond
 
 ## Pre-conditions:
 • The user is authorized
+
 • At least one product is added to the wishlist
 
 ## Post-conditions:
