@@ -8,6 +8,7 @@ Successfully adding a desired product to the wishlist by the user
 
 ## Post-conditions:
 • The user remains on the same page
+
 • A number appears on the wishlist button indicating how many products are added to the Wishlist
 
 ## Steps to Reproduce:
@@ -16,5 +17,7 @@ Successfully adding a desired product to the wishlist by the user
 
 ## Expected result:
 • The Favorite button is clicked successfully
+
 • The product is successfully added to the wishlist
+
 • The message appears: "პროდუქტი დაემატა სურვილების სიას"
