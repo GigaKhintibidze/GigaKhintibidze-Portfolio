@@ -1,7 +1,7 @@
 ## 🌐 Web Portal (Jobs & E-commerce)
 **Role:** Manual QA Engineer
 
-Period: Nov 2025
+**Period:** Nov 2025
 
 ## 📌 Project Overview
 Manual QA testing for a e-commerce platform focused on jobs and products, ensuring stable shopping jobs, consistent UI/UX, and accurate analytics tracking across devices.
