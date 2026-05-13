@@ -8,18 +8,25 @@ Manual Testing of Web application where the most important and prioritized funct
 
 ## ✅ Responsibilities
 • Writing test cases using precise steps
+
 • Assigning the right priority to test cases
+
 • Running test cases
+
 • Test case automation
 
 ## 🧩 Testing Type
 • Functional
+
 • UI/UX
+
 • Portability 
+
 • Cross browser compatibility
 
 ## 🛠️ Tools Used
 • Qase.io
+
 • Visual Studio Code
 
 
