@@ -1,4 +1,4 @@
-## N1
+# N1
 ## Tittle: Invitation Creation
 
 ## Description: 
@@ -24,7 +24,7 @@ Creating an invitation by the user
 
 • The user successfully creates an invitation.
 
-## N2
+# N2
 **Tittle:** Invitation Creation Without Required Fields
 
 **Description:** 
