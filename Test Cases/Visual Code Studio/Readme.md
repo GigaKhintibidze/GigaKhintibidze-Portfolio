@@ -1,4 +1,4 @@
-## ✉️ A platform where invitations can be created
+## 📨 A platform where invitations can be created
 **Role:** Manual QA Tester
 
 **Period:** Nov 2025 - Dec 2025
