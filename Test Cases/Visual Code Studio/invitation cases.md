@@ -1,7 +1,8 @@
 ## N1
 **Tittle:** Invitation Creation
 
-**Description:** Creating an invitation by the user
+**Description:** 
+Creating an invitation by the user
 
 **Precondition:**
 • The user is authorized
@@ -22,7 +23,8 @@ The user creates an invitation
 ## N2
 **Tittle:** Invitation Creation Without Required Fields
 
-**Description:** Creating an invitation by the user without filling in the required fields
+**Description:** 
+Creating an invitation by the user without filling in the required fields
 
 **Precondition:**
 • The user is authorized
@@ -43,7 +45,8 @@ The user cannot create an invitation
 ## N3
 **Tittle:** Invitation Creation Without Authorization
 
-**Description:** Creating an invitation by the user without authorization
+**Description:** 
+Creating an invitation by the user without authorization
 
 **Postcondition:**
 • The user cannot create an invitation
@@ -58,7 +61,8 @@ The user cannot create an invitation
 ## N4
 **Tittle:** Selecting the Multiple Event Time Checkbox
 
-**Description:** Selecting the multiple event time Checkbox by the user
+**Description:** 
+Selecting the multiple event time Checkbox by the user
 
 **Precondition:**
 • The user is authorized
@@ -75,7 +79,8 @@ The user selects the multiple event time Checkbox
 **Expected Result:** The user successfully selects the multiple event time Checkbox.
 
 ## N5
-**Tittle:** Selecting the Guests RSVP Permission Checkbox
+**Tittle:** 
+Selecting the Guests RSVP Permission Checkbox
 
 **Description:** Selecting the guests RSVP permission Checkbox by the user
 
