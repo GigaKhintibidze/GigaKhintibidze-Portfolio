@@ -1,7 +1,7 @@
 ## N1
-**Tittle:** Invitation Creation
+## Tittle: Invitation Creation
 
-**Description:** 
+## Description: 
 Creating an invitation by the user
 
 **Precondition:**
