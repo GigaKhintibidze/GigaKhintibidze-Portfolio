@@ -20,6 +20,7 @@ Creating an invitation by the user
 4. Click the button: "მოსაწვევის შექმნა"
 
 **Expected Result:** 
+
 • The user successfully creates an invitation.
 
 ## N2
