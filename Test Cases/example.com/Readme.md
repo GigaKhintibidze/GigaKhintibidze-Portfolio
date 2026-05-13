@@ -26,6 +26,7 @@ Manual testing of Mobile and Web application Where user can buy clothes and vari
 
 ## 🛠️ Tools Used
 • Qase.io 
+
 • Jira (If the case status was Filed, it would be transferred to Jira as a report)
 
 ## 🔒 NDA Notice
