@@ -45,6 +45,7 @@ Creating an invitation by the user without filling in the required fields
 4. Click the button: "მოსაწვევის შექმნა"
 
 **Expected Result:** 
+
 • The system does not allow the user to click the invitation creation button until the required fields are filled in.
 
 ## N3
@@ -62,6 +63,7 @@ Creating an invitation by the user without authorization
 3. Click on the first template labeled: "simple wedding"
 
 **Expected Result:** 
+
 • The website prompts the user to authorize in order to create an invitation.
 
 ## N4
@@ -84,6 +86,7 @@ Selecting the multiple event time Checkbox by the user
 3. Click the multiple event time Checkbox
 
 **Expected Result:** 
+
 • The user successfully selects the multiple event time Checkbox.
 
 ## N5
@@ -106,5 +109,6 @@ Selecting the Guests RSVP Permission Checkbox
 3. Click the guests RSVP permission Checkbox
 
 **Expected Result:** 
+
 • The user successfully selects the guests RSVP permission Checkbox.
 
