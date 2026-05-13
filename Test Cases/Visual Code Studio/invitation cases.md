@@ -10,17 +10,17 @@ Creating an invitation by the user
 
 • The user is on the templates page
 
-**Postcondition:**
+## Postcondition:
 • The user creates an invitation
 
-**Steps to Reproduce:**
+## Steps to Reproduce:
 
 1. Open the website: https://invu.ge/
 2. Click on the first template labeled: "simple wedding"
 3. Fill in at least the required fields on the specific page
 4. Click the button: "მოსაწვევის შექმნა"
 
-**Expected Result:** 
+## Expected Result:
 
 • The user successfully creates an invitation.
 
