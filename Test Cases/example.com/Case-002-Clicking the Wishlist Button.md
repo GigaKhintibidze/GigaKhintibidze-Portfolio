@@ -12,10 +12,10 @@ Successfully clicking the wishlist button and being redirected to the correspond
 • All products added to the wishlist are displayed
 
 ## Steps to Reproduce:
-
-## Open the website: https://www.example.com/
-Click the button located on the right side: "სურვილების სია"
+1. Open the website: https://www.example.com/
+2. Click the button located on the right side: "სურვილების სია"
 
 ## Expected result:
 • The button is clicked successfully
+
 • The website redirects the user to the wishlist page
